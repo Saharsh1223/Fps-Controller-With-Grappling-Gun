@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{184122BD-7DE7-FDFC-9BB6-73D1D8F8253D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WebShooter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GunSway.cs" />
+      <File FileName="Assets/Scripts/GrapplingGun.cs" />
+      <File FileName="Assets/Scripts/GrapplingRope.cs" />
+      <File FileName="Assets/Scripts/WebShooter.cs" Line="71" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Multiplayer mobile controller with grappling gun" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc4d3c93-075c-4ec0-8815-c7db554cfa58" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
